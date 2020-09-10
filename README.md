@@ -77,7 +77,7 @@ ____
 
 
 
-![Saddam Hossain's github stats](https://github-readme-stats.vercel.app/api?username=saddamhr&show_icons=true&hide_border=true)
+![Saddam Hossain's github stats](https://github-readme-stats.vercel.app/api?username=ChungZH&theme=gruvbox&show_icons=true)
 
   <a href="https://www.linkedin.com/in/saddamhr/">
     <img align="left" alt="Saddam | Linkedin" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" />

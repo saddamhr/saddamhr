@@ -7,8 +7,9 @@
 ## Tech Stack :computer:
 
 <br>
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/saddamhr/)](https://github.com/saddamhr/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/saddamhr/)](https://github.com/LuizCarlosAbbott/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 [![C](https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=c&logoColor=white&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 
@@ -16,6 +17,9 @@
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![Vue.js](https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=vue.js&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 [![Nestjs](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=NestJS&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
@@ -36,6 +40,7 @@
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 [![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+
 
 ____
 

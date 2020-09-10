@@ -30,7 +30,7 @@
 <tr>
 <td align="center" width="20%">
 <span><b><center>Express.js</center></b></span> 
-<img height=65px src="https://www.edureka.co/blog/wp-content/uploads/2019/07/express-logo.png"> 
+<img height=65px src="https://expressjs.com/images/favicon.png"> 
 </td>
 
 <td align="center" width="20%">

@@ -29,8 +29,8 @@
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>MATLAB</center></b></span> 
-<img height=65px src="https://img.icons8.com/nolan/2x/matlab.png"> 
+<span><b><center>Express.js</center></b></span> 
+<img height=65px src="https://www.edureka.co/blog/wp-content/uploads/2019/07/express-logo.png"> 
 </td>
 
 <td align="center" width="20%">

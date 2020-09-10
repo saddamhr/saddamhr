@@ -80,7 +80,7 @@ ____
 <h3 align="center"> Other Accounts 📫 </h3>
 <br />
 <p align="center">
-<a href="https://github.com/saddamhr"><img src="https://img.shields.io/badge/medium-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/saddamhr"><img src="https://img.shields.io/badge/medium-%23F4455F.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/s.rakib65/"><img src="https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/saddamhr/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/s.rakib04/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>

@@ -77,21 +77,21 @@ ____
 
 
 
-<h3 align="center"> Other Accounts 📫 </h3>
-<br />
-<p align="center">
-<a href="https://medium.com/@saddamhr"><img src="https://img.shields.io/badge/medium-%23F4455F.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.facebook.com/s.rakib65/"><img src="https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/saddamhr/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/s.rakib04/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+![Hargun's github stats](https://github-readme-stats.vercel.app/api?username=hargun79&show_icons=true&hide_border=true)
 
-</p>
+  <a href="https://in.linkedin.com/in/hargun-singh-sahni-519baa166">
+    <img align="left" alt="Hargun | Linkedin" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" />
+  </a>
+  <a href="https://twitter.com/sahni_hargun">
+    <img align="left" alt="Hargun | Twitter" width="26px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Twitter.svg" />
+  </a>
+  <a href="https://www.instagram.com/captivatingracer">
+    <img align="left" alt="Hargun | Instagram" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Instagram.svg" />
+  </a>
+  <a href="mailto:hargunsinghsahni@gmail.com">
+    <img align="left" alt="Hargun | Gmail" width="26px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Gmail.svg" />
+  </a>
 
-____
+<br><br>
 
-
-<p align="center">
-
-⭐️ [saddamhr](https://github.com/saddamhr)
-
-</p>
+**⭐️ From [hargun79](https://github.com/hargun79)**

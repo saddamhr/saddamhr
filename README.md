@@ -9,7 +9,7 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/saddamhr/)](https://github.com/saddamhr/)
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++&link=https://github.com/saddamhr/)](https://github.com/saddamhr/)
 [![C](https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=c&logoColor=white&link=https://github.com/saddamhr/)](https://github.com/saddamhr/)
-[![Java](https://img.shields.io/badge/-Java-00599C?style=flat-square&logo=java&link=https://github.com/saddamhr/)](https://github.com/saddamhr/)
+[![Java](https://img.shields.io/badge/-Java-green?style=flat-square&logo=java&link=https://github.com/saddamhr/)](https://github.com/saddamhr/)
 
 <!-- <br> -->
 

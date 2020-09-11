@@ -27,7 +27,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/saddamhr/)](https://github.com/saddamhr/)
 
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&link=https://github.com/saddamhr/)](https://github.com/saddamhr/)
-[![Netlify](https://img.shields.io/badge/netlify-black?style=flat-square&logo=netlify&link=https://github.com/saddamhr/)](https://github.com/saddamhr/)
+[![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify&link=https://github.com/saddamhr/)](https://github.com/saddamhr/)
 
 ____
 

@@ -16,6 +16,7 @@
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/saddamhr/)](https://github.com/saddamhr/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/saddamhr/)](https://github.com/saddamhr/)
+[![SASS](https://img.shields.io/badge/-SASS-1572B6?style=flat-square&logo=sass&link=https://github.com/saddamhr/)](https://github.com/saddamhr/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/saddamhr/)](https://github.com/saddamhr/)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/saddamhr/)](https://github.com/saddamhr/)
 
@@ -33,11 +34,12 @@ ____
 
 
 
-<!-- ![Saddam Hossain's github stats](https://github-readme-stats.vercel.app/api?username=saddamhr&theme=gruvbox&show_icons=true) -->
-
 [![Saddam Hossain's github stats](https://github-readme-stats.vercel.app/api?username=saddamhr&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/saddamhr)
 &nbsp;![Top Langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=saddamhr&layout=compact&theme=radical)
 
+  <a href="https://www.linkedin.com/in/saddamhr/">
+    <img align="left" alt="Saddam | Linkedin" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" />
+  </a>
   <a href="https://www.linkedin.com/in/saddamhr/">
     <img align="left" alt="Saddam | Linkedin" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" />
   </a>

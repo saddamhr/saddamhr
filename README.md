@@ -6,7 +6,7 @@
   
 ## Tech Stack :computer:
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript, ES6-black?style=flat-square&logo=javascript&link=https://github.com/saddamhr/)](https://github.com/saddamhr/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript,ES6-black?style=flat-square&logo=javascript&link=https://github.com/saddamhr/)](https://github.com/saddamhr/)
 [![ES6](https://img.shields.io/badge/-ES6-red?style=flat-square&logo=es6&link=https://github.com/saddamhr/)](https://github.com/saddamhr/)
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++&link=https://github.com/saddamhr/)](https://github.com/saddamhr/)
 [![C](https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=c&logoColor=white&link=https://github.com/saddamhr/)](https://github.com/saddamhr/)

@@ -19,6 +19,7 @@
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/saddamhr/)](https://github.com/saddamhr/)
 [![SASS](https://img.shields.io/badge/-SASS-1572B6?style=flat-square&logo=sass&link=https://github.com/saddamhr/)](https://github.com/saddamhr/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/saddamhr/)](https://github.com/saddamhr/)
+[![jQuery](https://img.shields.io/badge/-jQuery-black?style=flat-square&logo=jquery&link=https://github.com/saddamhr/)](https://github.com/saddamhr/)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/saddamhr/)](https://github.com/saddamhr/)
 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/saddamhr/)](https://github.com/saddamhr/)

@@ -38,9 +38,9 @@ ____
 [![Saddam Hossain's github stats](https://github-readme-stats.vercel.app/api?username=saddamhr&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/saddamhr)
 &nbsp;![Top Langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=saddamhr&layout=compact&theme=radical)
 
-  <!-- <a href="https://www.linkedin.com/in/saddamhr/">
-    <img align="left" alt="Saddam | Linkedin" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" />
-  </a> -->
+  <a href="https://www.facebook.com/s.rakib65/">
+    <img align="left" alt="Saddam | Facebook" width="24px" src="https://drive.google.com/file/d/1Shl9xwxLFGY3rv3PHxfk2JJqkY0Vh4Vk/view?usp=sharing" />
+  </a>
   <a href="https://www.linkedin.com/in/saddamhr/">
     <img align="left" alt="Saddam | Linkedin" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" />
   </a>
